@@ -165,4 +165,4 @@ disp("F_pull (225 kg): " + forceMaxAccBefore225 + " N");
 
 disp(">> RECOVERY <<");
 disp("F_catch (110 kg): " + forceMaxAccAfter110 + " N");
-disp("F_catch (225 kg): " + forceMaxAccAfter110 + " N");
+disp("F_catch (225 kg): " + forceMaxAccAfter225 + " N");
