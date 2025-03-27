@@ -50,7 +50,7 @@ The script was initially used to analyze my latest max attempt, providing insigh
 
 **Recovery**
 - **Force at Catch (110 kg):** 1506.4562 N  
-- **Force at Catch (225 kg):** 1506.4562 N  
+- **Force at Catch (225 kg):** 3081.3877 N  
 
 **🚀 Future Development**
 
