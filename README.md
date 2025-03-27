@@ -25,7 +25,9 @@ The script was initially used to analyze my latest max attempt, providing insigh
 
 **📈 Position, Velocity, and Acceleration Over Time**
 
-![image](https://github.com/user-attachments/assets/0e5d3958-a194-4010-9fe2-239a1c84318e)
+![image](https://github.com/user-attachments/assets/f042969b-f4ef-43ba-a900-fa9e0fb7af83)
+
+
 
 
 **💪 Force Analysis in Different Phases*
